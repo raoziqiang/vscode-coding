@@ -1,2 +1,2 @@
 # vscode-coding
-This is private project of excesice.
+This is private project of training.
