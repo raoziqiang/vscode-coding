@@ -15,7 +15,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "main.App",
-            "projectName": "rao"
+            
         }
     ]
     
